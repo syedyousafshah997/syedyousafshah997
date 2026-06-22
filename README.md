@@ -5,4 +5,3 @@ I'm **Syed Yousaf Shah**, an Electrical Engineering (Computing & AI) student at 
 * 💻 C, C++, Python, MATLAB & Simulink
 * 🤖 Interested in AI, Embedded Systems & Electronics
 * 🌱 Currently learning Machine Learning and Advanced Embedded Systems
-* ⚽ Soccer enthusiast and history lover
