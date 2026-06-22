@@ -1,16 +1,33 @@
-## Hi there 👋
+# About Me
 
-<!--
-**syedyousafshah997/syedyousafshah997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Syed Yousaf Shah 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an Electrical Engineering (Computing and AI) student at UET Peshawar with a strong interest in embedded systems, artificial intelligence, programming, and electronics. I enjoy solving engineering problems, building practical projects, and continuously learning new technologies.
+
+### 🎓 Education
+
+* Bachelor's in Electrical Engineering (Computing and AI) – UET Peshawar
+
+### 💻 Technical Skills
+
+* C/C++ Programming
+* Embedded Systems & Microcontrollers
+* Artificial Intelligence & Machine Learning Fundamentals
+* MATLAB/Simulink
+* MS Excel
+* Circuit Analysis and Electronic Design
+
+### 🚀 Interests
+
+* Artificial Intelligence
+* Embedded Systems
+* Electronics and Automation
+* Software Development
+* History and Technology
+
+### 🌱 Currently Learning
+
+* Machine Learning and AI Applications
+* Advanced Embedded Systems
+* Hardware-Software Integration
